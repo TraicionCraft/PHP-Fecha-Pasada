@@ -1,4 +1,4 @@
-/**
+<?php /**
     * (desde[, hasta])
     *
     * Devuelve la diferencia textual entre dos fechas.
@@ -56,3 +56,4 @@ function between($past = '', $now = '')
         }
     }
 }  
+?>
